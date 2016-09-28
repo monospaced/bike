@@ -18,6 +18,8 @@
     * mini Soreen
 * bike
     * bidon(s)
+    * exposure front light
+    * exposure rear light
     * saddle bag
       * dry bag
         * touring shorts
@@ -39,12 +41,10 @@
         * shower gel
       * electronics bag
         * usb wall plug (x3)
-        * usb to lightening cable
-        * usb to micro usb cable
-        * usb battery charger + cable
         * usb power bank
-        * exposure front light
-        * exposure rear light
+        * usb to micro usb cable
+        * usb to lightening cable
+        * usb battery charger + cable
         * spare batteries
         * lighter
         * house keys + lock key
