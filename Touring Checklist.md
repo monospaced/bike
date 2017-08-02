@@ -1,11 +1,14 @@
 * wear
     * bib shorts
     * jersey
+    * base layer
     * gloves
     * socks
     * cycling shoes
     * helmet
+    * cap
     * sunglasses / glasses
+    * glasses strap
 * pockets
     * headphones
     * phone
@@ -13,39 +16,37 @@
       * credit card
       * driving licence
       * money
-    * rain jacket
-    * cap
-    * mini Soreen
+    * rain jacket 
+    * arm warmers
+    * food
 * bike
     * bidon(s)
-    * exposure front light
-    * exposure rear light
+    * front light
+    * rear light
     * saddle bag
       * dry bag
         * touring shorts
         * black t-shirt
         * black jumper
         * black boxers
-        * black base layer
         * spare socks
         * buff
       * wash bag
         * toothbrush
         * toothpaste
         * deodorant
-        * painkillers
+        * paracetamol / ibuprofen / antihistamine 
+        * ibuprofen gel
         * sunscreen
         * Savlon
         * plasters
         * fabric hand-wash
         * shower gel
       * electronics bag
-        * usb wall plug (x3)
+        * usb wall plug (x2)
         * usb power bank
         * usb to micro usb cable
         * usb to lightening cable
-        * usb battery charger + cable
-        * spare batteries
         * lighter
         * house keys + lock key
       * tools
