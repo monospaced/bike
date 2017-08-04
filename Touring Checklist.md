@@ -43,21 +43,21 @@
         * fabric hand-wash
         * shower gel
       * electronics bag
-        * usb wall plug (x2)
+        * usb double wall plug
         * usb power bank
         * usb to micro usb cable
         * usb to lightening cable
         * lighter
         * house keys + lock key
-      * tools
+      * tool wrap
         * chain lube
         * inner tubes x 2
         * mini pump
         * multi tool
         * tyre levers
         * patches
+        * wipes
         * Jethro Tule (fixed only)
       * glasses case
-      * flip flops
       * mini d-lock
-      * wipes
+      * flip flops
